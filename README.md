@@ -4,5 +4,5 @@ Hello, My name is Dimitri Bouniol!
 
 I like to eat Bananas!
 
-I use Gru a lot.
+I use iPads and iPhones a lot.
 
