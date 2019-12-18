@@ -4,3 +4,5 @@ Hello, My name is Dimitri!
 
 I like to eat Sushi!
 
+I use Macs and iPhones a lot.
+
