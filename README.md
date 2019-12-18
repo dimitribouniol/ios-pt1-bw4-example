@@ -1,8 +1,8 @@
 # ios-pt1-bw4-example
 
-Hello, My name is Dimitri!
+Hello, My name is Bob!
 
-I like to eat Sushi!
+I like to eat Bananas!
 
-I use Macs and iPhones a lot.
+I use Gru a lot.
 
