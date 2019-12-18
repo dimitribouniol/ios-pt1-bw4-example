@@ -6,3 +6,5 @@ I like to eat Sushi!
 
 I use Macs and iPhones a lot.
 
+Adding new line - I like to eat Sushi too
+
