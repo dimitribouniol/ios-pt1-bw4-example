@@ -2,7 +2,11 @@
 
 Hello, My name is Bob!
 
-I like to eat Bananas!
 
-I use Gru a lot.
+I like to eat Sushi with chopsticks
+
+I love windows 10! 
+
+Moin Loves his Android devices. 
+
 
