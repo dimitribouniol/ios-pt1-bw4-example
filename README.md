@@ -1,6 +1,6 @@
 # ios-pt1-bw4-example
 
-Hello, My name is Bob!
+Hello, My name is Dimitri Bouniol!
 
 I like to eat Bananas!
 
