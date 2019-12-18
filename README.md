@@ -6,3 +6,5 @@ I like to eat Bananas!
 
 I use Gru a lot.
 
+Adding new line - I like to eat Sushi too
+
